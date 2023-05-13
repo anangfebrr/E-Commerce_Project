@@ -1,0 +1,57 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-size: cover;
+}
+
+#form_login_1{
+    margin-top: 20vh;
+    margin-right: 65vh;
+    margin-left: 60vh;
+    background-color: rgba(255, 224, 166, 0.3);
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    outline: none;
+    border-style: none;
+    background: none;
+    opacity: 0.5;
+}
+
+h3{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#link{
+    display: flex;
+    justify-content: right;
+}
+
+a{
+    font-size: x-small;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(0, 0, 148);
+}
+
+button{
+    margin-top: 10px;
+    border: 1px solid rgba(134, 125, 125, 0.973);
+    height: 30px;
+    width: 100px;
+    background: none;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+button:hover{
+    background-color: darkkhaki;
+}
+
+footer{
+    opacity: 0.5;
+}
